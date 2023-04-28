@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc",
+  "description": "🖥 (Program) an Discord RPC",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoruAkio/Discord-RPC.git"
+  },
+  "author": "YoruAkio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoruAkio/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/YoruAkio/Discord-RPC#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
